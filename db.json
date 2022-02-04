@@ -1,0 +1,31 @@
+{
+    "streams": [
+      {
+        "title": "My Stream",
+        "description": "Such a genius stream",
+        "id": 1
+      },
+      {
+        "title": "Other Stream",
+        "description": "This is fantastic tai chi type shit",
+        "id": 2
+      },
+      {
+        "title": "Hunter Gomez",
+        "description": "Hunter Gomez type magic ",
+        "userId": "104846876724432869640",
+        "id": 4
+      },
+      {
+        "title": "The Life of Brian",
+        "description": "It is quite a journey and much is left to be had",
+        "id": 8
+      },
+      {
+        "title": "Jukebox Hero",
+        "description": "Not to be confused with a WebDev Hero, but that describes me too",
+        "userId": "107341038354800488369",
+        "id": 9
+      }
+    ]
+  }
